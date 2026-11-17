@@ -1,0 +1,11 @@
+id_sku,nome_produto,categoria,curva_abc,nome_fornecedor,qtd_pedidos_cancelados,unidades_nao_atendidas,receita_perdida
+SKU-0008,Produto LIMP 008,Limpeza,A,Embalagens Express,11,323,15019.98
+SKU-0004,Produto ALIM 004,Alimentos,A,Grupo Horizonte,5,117,10003.34
+SKU-0007,Produto ALIM 007,Alimentos,A,Química Limpa,4,142,9899.82
+SKU-0005,Produto LIMP 005,Limpeza,A,Cereais do Vale,3,82,8535.03
+SKU-0021,Produto BEBI 021,Bebidas,B,Higiene Total,4,48,5481.52
+SKU-0012,Produto LIMP 012,Limpeza,A,Embalagens Express,2,69,5415.69
+SKU-0002,Produto HIGI 002,Higiene,A,Atacado Nacional,5,164,4781.37
+SKU-0011,Produto ALIM 011,Alimentos,A,Cereais do Vale,2,64,3480.12
+SKU-0014,Produto HIGI 014,Higiene,A,Química Limpa,1,28,1413.05
+SKU-0046,Produto ALIM 046,Alimentos,C,Atacado Nacional,1,14,940.10

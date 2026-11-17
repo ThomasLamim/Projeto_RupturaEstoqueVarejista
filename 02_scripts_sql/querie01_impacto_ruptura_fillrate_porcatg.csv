@@ -1,0 +1,5 @@
+categoria,total_pedidos,unidades_solicitadas,unidades_atendidas,unidades_perdidas_ruptura,fill_rate_pct,receita_realizada,receita_perdida_ruptura
+Limpeza,1031,17670,17196,474,97.32,1318017.10,28970.70
+Alimentos,1933,31817,31469,348,98.91,2510785.86,24695.89
+Higiene,1553,24726,24515,211,99.15,1930737.16,6471.33
+Bebidas,1578,22815,22753,62,99.73,1631670.71,6076.70

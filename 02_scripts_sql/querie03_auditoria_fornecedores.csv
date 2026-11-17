@@ -1,0 +1,13 @@
+id_fornecedor,nome_fornecedor,uf,lead_time_combinado_dias,total_entregas_recebidas,media_dias_atraso,lead_time_real_dias,entregas_com_atraso,pct_entregas_atrasadas
+FORN-04,Bebidas Serra,RJ,3,35,6.97,9.97,35,100.00
+FORN-02,Alimentos Brasil,MG,7,21,6.33,13.33,21,100.00
+FORN-09,Higiene Total,RJ,14,33,0.91,14.91,18,54.55
+FORN-06,Atacado Nacional,SP,10,38,0.82,10.82,19,50.00
+FORN-11,Embalagens Express,RJ,5,40,0.78,5.78,19,47.50
+FORN-12,Mega Suprimentos,MG,10,22,0.73,10.73,11,50.00
+FORN-10,Cereais do Vale,RJ,3,34,0.71,3.71,16,47.06
+FORN-07,Grupo Horizonte,SP,3,25,0.68,3.68,11,44.00
+FORN-05,Indústria Paulista,RJ,3,46,0.65,3.65,22,47.83
+FORN-03,Química Limpa,MG,5,59,0.64,5.64,25,42.37
+FORN-08,LogiFood,MG,5,21,0.52,5.52,7,33.33
+FORN-01,Distribuidora Sul,SP,3,13,0.23,3.23,3,23.08
