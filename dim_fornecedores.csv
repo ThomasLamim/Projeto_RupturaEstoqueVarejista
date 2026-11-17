@@ -1,0 +1,13 @@
+id_fornecedor;nome_fornecedor;lead_time_combinado_dias;uf
+FORN-01;Distribuidora Sul;3;SP
+FORN-02;Alimentos Brasil;7;MG
+FORN-03;Química Limpa;5;MG
+FORN-04;Bebidas Serra;3;RJ
+FORN-05;Indústria Paulista;3;RJ
+FORN-06;Atacado Nacional;10;SP
+FORN-07;Grupo Horizonte;3;SP
+FORN-08;LogiFood;5;MG
+FORN-09;Higiene Total;14;RJ
+FORN-10;Cereais do Vale;3;RJ
+FORN-11;Embalagens Express;5;RJ
+FORN-12;Mega Suprimentos;10;MG
